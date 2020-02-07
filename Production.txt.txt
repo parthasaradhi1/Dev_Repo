@@ -1,0 +1,5 @@
+2. git add
+Usage (i): git add [file(s) name]
+
+This will add the specified file(s) into the Git repository,
+the staging area, where they are already being tracked by Git and now ready to be committed.
